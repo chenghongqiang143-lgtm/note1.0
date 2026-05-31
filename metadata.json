@@ -1,0 +1,6 @@
+{
+  "name": "项目笔记",
+  "description": "支持多级文件夹分类、标签分类、精美热力图、双链图谱、子弹日记及Gemini AI助手的知识库笔记软件",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
